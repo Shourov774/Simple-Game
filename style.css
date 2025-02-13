@@ -31,13 +31,13 @@ h1{
     cursor: pointer;
 }
 #rock{
-    background-image: url("/Images/rock.jpg");
+    background-image: url("./Images/rock.jpg");
 }
 #paper{
-    background-image: url(/Images/paper.jpg);
+    background-image: url("./Images/paper.jpg");
 }
 #scissor{
-    background-image: url(/Images/scissor.jpg);
+    background-image: url("./Images/scissor.jpg");
 }
 .scores{
     display: flex;
